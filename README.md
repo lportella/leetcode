@@ -1,2 +1,2 @@
 # leetcode
-bunch of code and wated time
+bunch of code and wasted time
